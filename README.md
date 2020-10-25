@@ -1,4 +1,4 @@
-## Hello, I'm Chloe! [website] 👋
+## Hello, I'm Chloe! Check out my [website] 👋
 
 ### I'm a student engineer and leader in technology!
 
