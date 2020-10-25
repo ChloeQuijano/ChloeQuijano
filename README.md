@@ -4,6 +4,11 @@
 
 <br />
 
+- 🔭 Just launched my own startup at my school's Incubator! [keepup]
+- 🌱 I enjoy learning everything and anything in technology!
+- 💻 2020 & 2021 Goals: Work on a new personal project every month
+- ⚡ Fun fact: I directed and filmed my own short film
+
 ### Connect with me:
 
 [<img align="left" alt="chloequijano.github.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -33,3 +38,4 @@
 [website]: https://chloequijano.github.io/
 [instagram]: https://www.instagram.com/chloe.quijano/
 [linkedin]: https://www.linkedin.com/in/chloequijano/
+[keepup]: https://keepupai.com/
