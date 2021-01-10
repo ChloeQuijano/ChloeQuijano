@@ -1,13 +1,13 @@
 ## Hello, I'm Chloe! Check out my [website] 👋
 
-### I'm a student engineer and leader in technology!
+### I'm a student engineer and leader in my tech community!
 
 <br />
 
 - 📚 Current Engineering Science student at the University of Toronto
 - 🔭 Just launched my own startup at my school's Incubator! [keepup]
 - 🌱 I enjoy learning everything and anything in technology!
-- 💻 2020 & 2021 Goals: Work on a new personal project every month
+- 💻 2021 Goals: Work on a technical web project each month
 - ⚡ Fun fact: I directed and filmed my own short film
 
 ### Connect with me:
