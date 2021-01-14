@@ -37,7 +37,7 @@
 
 ---
 
-[website]: https://chloequijano.github.io/
+[website]: http://chloequijano.codes/
 [instagram]: https://www.instagram.com/chloe.quijano/
 [linkedin]: https://www.linkedin.com/in/chloequijano/
 [keepup]: https://keepupai.com/
