@@ -1,20 +1,19 @@
-## Hello, I'm Chloe! Check out my [website] 👋
+## Hello, I'm Chloe! 👋
 
 ### I'm a student engineer and leader in my tech community!
 
 <br />
 
 - 📚 Current Engineering Science student at the University of Toronto
-- 🔭 Just launched my own startup at my school's Incubator! [keepup]
+- 👩‍💻 Always looking for new internship opportunities to advance my technical skills
 - 🌱 I enjoy learning everything and anything in technology!
-- 💻 2021 Goals: Work on a technical web project each month
+- 💻 2022 Goals: Build more web apps in my free time
 - ⚡ Fun fact: I directed and filmed my own short film
 
 ### Connect with me:
 
 [<img align="left" alt="chloequijano.github.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Chloe Quijano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="@chloequijano | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,4 +38,3 @@
 [website]: http://chloequijano.codes/
 [instagram]: https://www.instagram.com/chloe.quijano/
 [linkedin]: https://www.linkedin.com/in/chloequijano/
-[keepup]: https://keepupai.com/
