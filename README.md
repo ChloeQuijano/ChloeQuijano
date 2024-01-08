@@ -1,13 +1,13 @@
 ## Hello, I'm Chloe! 👋
 
-### I'm a student engineer and leader in my tech community!
+### I'm a student software engineer and leader in my tech community!
 
 <br />
 
 - 📚 Current Software Engineering Student in Toronto, Canada
 - 👩‍💻 Always looking for new internship opportunities to advance my technical skills
 - 🌱 I enjoy learning everything and anything in technology!
-- 💻 2023 Goal: Advance my web development skills
+- 💻 2024 Goal: Apply and learn more UX development skills
 - ⚡ Fun fact: I directed and filmed my own short film
 
 <br />
