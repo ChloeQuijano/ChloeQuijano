@@ -7,7 +7,7 @@
 - 📚 Current Software Engineering Student in Toronto, Canada
 - 👩‍💻 Always looking for new internship opportunities to advance my technical skills
 - 🌱 I enjoy learning everything and anything in technology!
-- 💻 2024 Goal: Apply and learn more UX development skills
+- 💻 2024 Goal: Apply and learn more UX and ML development skills
 - ⚡ Fun fact: I directed and filmed my own short film
 
 <br />
